@@ -1,0 +1,38 @@
+# Ignore
+/vendor/bundle
+
+/.bundle
+/.project
+
+/config/*.yml
+/config/after_initializers
+/config/environments
+/config/unicorn.rb
+/coverage
+/file
+/log
+/tmp
+/private
+/public/sites
+
+# YARD
+/doc
+!/doc/install.txt
+/.yardoc
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IntelliJ IDEA & RubyMine
+/*.iml
+/.idea/
+
+# NetBeans
+/nbproject
+
+# Local Guardfile
+/Guardfile.local
+
+# Dotenv
+/.env

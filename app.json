@@ -1,0 +1,8 @@
+{
+  "env": {
+    "secret_key_base": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    }
+  }
+}
